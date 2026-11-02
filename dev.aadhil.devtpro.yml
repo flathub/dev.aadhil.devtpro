@@ -32,8 +32,8 @@ modules:
       - type: archive
         only-arches:
           - x86_64
-        url: https://aadhil.dev/media/releases/devtpro/devtpro-linux-x86_64-9.0.0.tar.xz
-        sha256: 'd5e3dfa2c909b8350725a5fa40ca21008904390650f261a12f49adf8edd68f53'
+        url: https://aadhil.dev/media/releases/devtpro/devtpro-linux-x86_64-9.0.3.tar.xz
+        sha256: '6848329818a139ed9d13c362f822c5d6ac631863b4ef8fa9c34e271f11ec42af'
       # `flatpak run dev.aadhil.devtpro` opens the app, also for devtpro://
       # links (the desktop file passes %U). With a command line tool command
       # it runs the bundled CLI instead, e.g.
